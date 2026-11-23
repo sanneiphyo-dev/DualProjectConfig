@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DualProjectConfig.ProjectA/DualProjectConfig.ProjectA.csproj" />
+  <Project Path="DualProjectConfig.ProjectB/DualProjectConfig.ProjectB.csproj" Id="88bd08fe-984b-478b-9e34-dd058529e7ae" />
+</Solution>
